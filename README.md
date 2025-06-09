@@ -1,9 +1,48 @@
-<h1 align="center">Olá, eu sou João Pedro</h1>
-<h3 align="center">Estudante de BTI pela UFERSA - Pau dos Ferros</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">Hello, my name is João Pedro, and I am an IT university student at UFERSA, Brazil.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 I'm currently learning C</p>
+
+###
+
+<h2 align="left">I am learning...</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JpedroV23/JpedroV23/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JpedroV23/JpedroV23/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JpedroV23/JpedroV23/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-ven%C3%A2ncio-de-paiva-2ba993350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jpedro_venancio?igsh=cDMzcmIyMjc1MjEw" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
